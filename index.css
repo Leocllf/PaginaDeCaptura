@@ -11,8 +11,8 @@ body{
     overflow-x: hidden;
 }
 section{
-    /* width: 360px;
-    height: 640px; */
+    /* width: 360px; */
+    height: 640px;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
