@@ -12,7 +12,7 @@ body{
 }
 section{
     /* width: 360px; */
-    height: 640px;
+    height: 823px;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -34,6 +34,9 @@ section{
 .p1 p{
     color: white;
     text-align: center;    
+}
+.p1{
+    margin-bottom: 130px;
 }
 .b1{
     border: solid 3px #ffffff;
@@ -80,6 +83,7 @@ section{
     width: 600px; 
     margin-left: auto;
     margin-right: auto;
+    margin-top:75px;
     display: block;
     overflow: visible;
 }
@@ -97,6 +101,9 @@ a{
     }
     section{
         width: 992px;
+    }
+    .p1{
+        margin-bottom: 0;
     }
 
     .b1{
@@ -125,6 +132,6 @@ a{
         display: block;
         width: 1024px;
         overflow: visible;
-        
+        margin-top:0;
     }
 }
